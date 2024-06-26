@@ -1,2 +1,2 @@
-esto es una prueba N°1
-esto es una prueba N°2
+esto es una prueba N1
+esto es una prueba N2
